@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.10d03bda.css",
+    "main.js": "./static/js/main.12c1bd71.js",
+    "static/js/787.7d3d693b.chunk.js": "./static/js/787.7d3d693b.chunk.js",
+    "static/media/logo_xp.png": "./static/media/logo_xp.1d516a88005c3004ebc8.png",
+    "static/media/menheadset.jpg": "./static/media/menheadset.25a0e137cc6618a12bae.jpg",
+    "static/media/gamer.jpg": "./static/media/gamer.d230041bde69dfc26052.jpg",
+    "index.html": "./index.html",
+    "main.10d03bda.css.map": "./static/css/main.10d03bda.css.map",
+    "main.12c1bd71.js.map": "./static/js/main.12c1bd71.js.map",
+    "787.7d3d693b.chunk.js.map": "./static/js/787.7d3d693b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d03bda.css",
+    "static/js/main.12c1bd71.js"
+  ]
+}
